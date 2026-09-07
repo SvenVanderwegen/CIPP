@@ -7,9 +7,7 @@
     "url": "https://github.com/CyberDrain/CIPP/issues"
   },
   "license": "AGPL-3.0",
-  "engines": {
-    "node": "^22.22.2"
-  },
+  "engines": { "node": ">=22.13.0" },
   "repository": {
     "type": "git",
     "url": "git@github.com:CyberDrain/CIPP.git"
